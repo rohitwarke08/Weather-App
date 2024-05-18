@@ -102,4 +102,8 @@ body{
     .card{
         padding: 20px 10px;
     }
+    .details{
+        flex-direction: column;
+        margin-top: 30px;
+    }
 }
